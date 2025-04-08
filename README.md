@@ -36,3 +36,25 @@ Transform your Excel data with AI-powered cleaning and analysis. ESMR uses advan
 ## License
 
 MIT
+\`\`\`
+
+## Step 4: Add These Files to Your GitHub Repository
+
+Now, add these files to your GitHub repository:
+
+```bash
+# Clone your repository (if you haven't already)
+git clone https://github.com/yllvar/esmr.xyz.git
+cd esmr.xyz
+
+# Create the files
+# (Create app.py, requirements.txt, and README.md with the content provided above)
+
+# Add the files to git
+git add app.py requirements.txt README.md
+
+# Commit the changes
+git commit -m "Add Gradio app for Hugging Face Spaces"
+
+# Push to GitHub
+git push origin main
