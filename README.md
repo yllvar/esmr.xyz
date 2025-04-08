@@ -1,6 +1,6 @@
 # Excel Smart Model Refinery (ESMR)
 
-You can use the model on Huggingface: https://huggingface.co/spaces/Yllvar/esmr.xyz
+You can visit www.esmr.xyz or use the model on Huggingface: https://huggingface.co/spaces/Yllvar/esmr.xyz
 
 ### Comprehensive Product Analysis: Excel Smart Model Refinery (ESMR.xyz)
 
