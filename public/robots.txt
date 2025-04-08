@@ -1,0 +1,10 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Allow Google AdSense crawler specifically
+User-agent: Mediapartners-Google
+Allow: /
+
+# Sitemap
+Sitemap: https://esmr.xyz/sitemap.xml
