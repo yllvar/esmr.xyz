@@ -19,7 +19,7 @@ ESMR simplifies the often tedious and complex process of data cleaning and analy
 - Export processed data in multiple formats (CSV, JSON)
 
 
-### Target Audience
+### Suitable for:
 
 - Data analysts and business intelligence professionals
 - Researchers working with spreadsheet data
